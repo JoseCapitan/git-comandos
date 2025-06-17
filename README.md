@@ -13,3 +13,4 @@
 11. ```git merge -nombre de la rama-``` (fusiona dos ramas)
 12. ```git branch -d -nombre de la rama-``` (eliminar la rama)
 13. ```git push``` (lo despliega de nuevo en github)
+14. ```git commit -am``` (hacer el add . y el commit -m a la vez)
