@@ -8,3 +8,5 @@
 6- git log (ver los commits)
 7- git commit --amend (arreglar el nombre del ultimo commit)
 8- git checkout -b rama-heroes (crear nueva rama)
+9- git branch (ver las ramas)
+10- git checkout master
